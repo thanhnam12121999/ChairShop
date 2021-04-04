@@ -1,0 +1,21 @@
+{
+  "name": "adminlte-v2",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.4",
+    "jquery-ui": "^1.12.1",
+    "ckeditor": "^4.7",
+    "Ionicons": "ionicons#^2.0.1",
+    "font-awesome": "^4.7"
+  }
+}
